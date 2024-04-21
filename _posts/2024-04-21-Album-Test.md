@@ -1,1 +1,7 @@
-[bandcamp width=100% height=120 album=3025238189 size=large bgcol=ffffff linkcol=0687f5 tracklist=false artwork=small]
+---
+title:  "Album Test"
+categories: Blog
+tags: âm-nhạc
+---
+2020 - Kaatayra  - Toda História pela Frente
+[bandcamp width=400 height=241 album=3025238189 size=large bgcol=333333 linkcol=ffffff artwork=small]
